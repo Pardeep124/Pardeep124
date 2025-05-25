@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;MERN+Stack+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/Pardeep124"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;MERN+Stack+Developer;Always+learning+new+things"></a>
 </p>
 
 <!--h2 without bottom border-->
@@ -25,7 +25,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Nodejs, MongoDB, MySQL, React Native, AWS**
@@ -40,6 +39,8 @@
 <!--Intro end-->
 
 
+<br><br>
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:pardeepbijalpur@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -48,6 +49,8 @@
 	<a href="https://www.instagram.com/pardeepbijalpur/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+
+<br><br>
 
 ## 🛠️ My Skills
 
@@ -184,7 +187,7 @@
 
 
 <!-- 💻 GitHub Profile Stats -->
-<div>
+<!---<div>
   <samp>
     <h2 align="center">Github stats</h2>
     <br/>
@@ -194,13 +197,12 @@
         alt="pardeep124 :: overall Top Langs" />
       </a>
       <a href="https://github.com/pardeep124/">
-<!--         <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pardeep124&show_icons=true&theme=gruvbox&hide_border=true" /> -->
         <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pardeep124&theme=gruvbox&hide_border=true" />
       </a>
     </p>
     <br/>
   </samp>
-</div>
+</div> -->
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
