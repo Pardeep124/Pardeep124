@@ -27,13 +27,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Nodejs, MongoDB, MySQL, React Native, AWS**
+- 🔭 I’m currently working on **Angular, React, Nodejs, MongoDB, MySQL, React Native, AWS**
 
 - 🌱 On a journey to blend **traditional software engineering with the evolving world of AI.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **javascript, react, react-native, nodejs, mongoDB, mysql, AWS**
+- 💬 Ask me about **javascript, angular, react, react-native, nodejs, mongoDB, mysql, AWS**
 
 - 📫 Feel free to reach me out **pardeepbijalpur@gmail.com**
 <!--Intro end-->
@@ -72,6 +72,10 @@
 
 ### Frontend Development
 <p align="center"> 
+  &emsp;
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white">
+  </a>
   &emsp;
   <a href="https://react.dev" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
